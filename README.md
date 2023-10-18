@@ -1,4 +1,4 @@
-# Helo, World 1C!
+# Hello, World 1C!
 
 I study in Netology!
 
